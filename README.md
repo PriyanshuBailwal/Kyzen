@@ -1,4 +1,4 @@
 # Kyzen
-This is my first Repository
+This is my first Git first Repository
 <br>
 Author - Priyanshu Bailwal
